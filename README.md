@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seth Smucker
-- 👀 I’m interested in simulations, evolution, and music!
-- 🌱 I’m currently learning how to teach programming to high school students
+- 👀 I’m interested in Full Stack, evolution, and music
+- 🌱 I’m currently learning ReactJS and Angular
 - 💞️ I’m looking to collaborate on music software
 - 📫 How to reach me: send me an email at SmuckerAtWork@gmail.com
 
