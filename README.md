@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seth Smucker
-- 👀 I’m interested in Full Stack, evolution, and music
+- 👀 I’m interested in learning, teaching, and music
 - 🌱 I’m currently learning ReactJS and Angular
 - 💞️ I’m looking to collaborate on music software
 - 📫 How to reach me: send me an email at SmuckerAtWork@gmail.com
