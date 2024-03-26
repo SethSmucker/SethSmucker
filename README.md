@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seth Smucker
-- 👀 I’m interested in learning, teaching, and music
-- 🌱 I’m currently learning ReactJS and Angular
+- 👀 I’m interested in game devlopment and music
+- 🌱 I’m currently learning C# and the guitar
 - 💞️ I’m looking to collaborate on music software
 - 📫 How to reach me: send me an email at SmuckerAtWork@gmail.com
 
