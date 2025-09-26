@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seth Smucker
-- 👀 I’m interested in game devlopment and music
-- 🌱 I’m currently learning C# and the guitar
-- 💞️ I’m looking for new things to try in my free time
+- 👀 I’m interested in game devlopment and architecture
+- 🌱 I’m currently learning how to design modular systems for rapid prototyping
+- 💞️ I’m looking for my car keys
 - 📫 How to reach me: send me an email at SmuckerAtWork@gmail.com
 
 <!---
